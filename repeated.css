@@ -1,0 +1,37 @@
+.wid-25{
+	width: 25%;
+}
+.wid-50{
+	width: 50%;
+}
+.wid-75{
+	width: 75%;
+}
+.wid-33{
+    width: 33.33%;
+}
+.arrange-left{
+	float:left;
+}
+.common-class{
+ color: #D19C97;
+    font-weight:800;
+    height: 40px;
+    width: 70px;
+    border:1px solid #ddd;
+    background-color: #fff;
+    border-radius: 0px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.common-class span i{
+    padding-right: 10px;
+    padding-left: 5px;
+}
+.common-class span{
+    font-size: 16px;
+    font-weight: 800;
+}
+.next-row{
+    clear: both;
+}

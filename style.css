@@ -1,0 +1,84 @@
+.wrapper{
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+.logo h1{
+	font-size: 36px;
+	font-weight: 600;
+	margin: 0;
+    margin-top: -5px;
+}
+.logo h1 span:first-of-type{
+	color: #D19C97;
+	border: 1px solid #ddd;
+	padding: 10px;
+	margin: 0px 10px;
+}
+.search-product input{
+	    border: 1px solid #ddd;
+    height: 20px;
+    width: 70%;
+    padding: 10px;
+    border-right: none;
+    font-size:18px;
+    padding-left: 10px;
+}
+.search-product button{
+	height: 44px;
+    padding: 10px;
+    border-radius: 0px;
+    margin-left: -10px;
+    border: 1px solid #ddd;
+    color: #D19C97;
+    font-size: 18px;
+}
+.search-product input:focus{
+outline: none;
+}
+.header{
+        margin-top: 25px;
+}
+body{
+font-family: 'Poppins', sans-serif;
+}
+.selected-product{
+text-align: right;
+}
+.features-point{
+	border: 1px solid #add;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-right: 25px;
+}
+.features-point .icon-text-wrap{
+	padding: 30px;
+	display: flex;
+}
+.features-point .icon-text-wrap i {
+	font-size: 20px;
+	color: #d19c97;
+
+}
+.features-point .icon-text-wrap span{
+	font-size: 15px;
+	padding-left: 20px;
+	font-weight: 600;
+}
+.category-item{
+	border: 1px solid #ccc;
+	padding: 30px;
+    margin-top: 25px;
+	margin-right: 25px;
+	margin-bottom: 50px;
+}
+.category-image img{
+	width: 100%;
+}
+.product-count{
+	text-align: right;
+}
+.category-type{
+	margin-bottom: 0px;
+	font-size: 25px;
+}
